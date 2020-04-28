@@ -1,15 +1,17 @@
-![GoIndex](https://raw.githubusercontent.com/donwa/goindex/master/themes/logo.png)  
+[![捐赠雨苁](https://xss001.oss-cn-beijing.aliyuncs.com/shubiao/wx.webp "打赏雨苁")](https://www.ddosi.com)
   
-GoIndex  
-====  
+  
+[![](https://badgen.net/badge/GoIndex/V1.0.6/008000?icon=github)](https://www.ddosi.com)
+[![](https://badgen.net/badge/www.ddosi.com/w.ddosi.workers.dev/blue?icon=github)](https://w.ddosi.workers.dev/)
+--------------
 Google Drive Directory Index  
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser on Cloudflare Workers.    
 
 `index.js` is the content of the Workers script.  
 
 ## Demo  
-material: [https://index.gd.workers.dev/](https://index.gd.workers.dev/)  
-classic: [https://indexc.gd.workers.dev/](https://indexc.gd.workers.dev/)  
+material: [https://w.ddosi.workers.dev/](https://w.ddosi.workers.dev/)  
+classic: [https://www.ddosi.com/](https://www.ddosi.com/)  
 
 ## Deployment  
 1.Install `rclone` software locally  
